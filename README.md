@@ -1,4 +1,4 @@
-# Deploy Drone CI
+# Deploy Drone CI by DevOps Rizq Solutions
 [![Stack](https://raw.githubusercontent.com/paralect/stack/master/stack-component-template/stack.png)](https://github.com/paralect/stack)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
