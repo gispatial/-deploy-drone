@@ -27,6 +27,19 @@ When we first met with Drone, it took us few days to adopt it for our products, 
 2. [Setup Drone on local machine](local/README.md). This is a good way to get started with drone.
 3. [Deploy to production](SETUP.md). 
 
+## Getting Started with Frontend
+
+1. — $ cd ./drone
+2. - $ cd ./frontend and run $ npm install
+3. - run $ npm run dev
+
+## Getting Started with Backend
+
+1. — $ cd ./drone
+2. - $ cd ./backend and run $ npm install
+3. - Connect to drone via wifi
+4. - run $ npm start
+
 ## Demo
 
 A real word Drone usage example is available [here](https://github.com/paralect/ship/blob/master/.drone.yml).
