@@ -1,6 +1,9 @@
 # Deploy Drone CI by Rizq Solutions DevOps Elite
 [![Stack](https://raw.githubusercontent.com/paralect/stack/master/stack-component-template/stack.png)](https://github.com/paralect/stack)
 
+[![Stack](
+https://github.com/gispatial/rizq-drone/blob/ezhivitsa/update-drone/Screenshot%202020-12-17%20at%2012.22.50%20PM.png)](https://github.com/Rizq-Solutions/rizq-drone)
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
